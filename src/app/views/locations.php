@@ -38,8 +38,8 @@
 		Fax: 651-636-4618</p>
 
 
-		<p><strong>Hours:</strong><br /> Monday-Friday: 10 a.m. - 6 p.m.<br />
+		<p><strong>Hours:</strong><br /> Monday-Friday: 10 a.m. - 4:30 p.m.<br />
 		Saturday-Sunday: Closed</p>
 
-		<p>This location services all woodwinds, brass, strings and percussion and provides limited case work.</p>
+		<p>This location services all woodwinds and brass.</p>
 	</div>
